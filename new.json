@@ -1,72 +1,8 @@
-[
-    {
-        "LOAN_NUMBER": "62beed587a2930f16e700084",
-        "LOAN_STATUS": true,
-        "DTE": 30,
-        "BORROWER_NAME": "Valarie Fischer",
-        "LOAN_AMOUNT": "$3,099.39",
-        "lOAN_OFFICER": "Kent Deleon",
-        "lOAN_PRODUCT": "green",
-        "PROERTY_ADDRESS": "STUCCO"
-    },
-    {
-        "LOAN_NUMBER": "62beed582f459d65aca32ef4",
-        "LOAN_STATUS": true,
-        "DTE": 10,
-        "BORROWER_NAME": "Imogene Lindsey",
-        "LOAN_AMOUNT": "$3,850.25",
-        "lOAN_OFFICER": "Gina Beasley",
-        "lOAN_PRODUCT": "blue",
-        "PROERTY_ADDRESS": "ISONUS"
-    },
-    {
-        "LOAN_NUMBER": "62beed584a2216b5ff0d2e42",
-        "LOAN_STATUS": true,
-        "DTE": 20,
-        "BORROWER_NAME": "Estelle Conley",
-        "LOAN_AMOUNT": "$3,877.36",
-        "lOAN_OFFICER": "Callie Ferrell",
-        "lOAN_PRODUCT": "blue",
-        "PROERTY_ADDRESS": "KNOWLYSIS"
-    },
-    {
-        "LOAN_NUMBER": "62beed58e287b1a2351a1d9c",
-        "LOAN_STATUS": true,
-        "DTE": 10,
-        "BORROWER_NAME": "Holloway Hoover",
-        "LOAN_AMOUNT": "$1,334.90",
-        "lOAN_OFFICER": "Lynnette Silva",
-        "lOAN_PRODUCT": "green",
-        "PROERTY_ADDRESS": "CUIZINE"
-    },
-    {
-        "LOAN_NUMBER": "62beed58a601c5537d69f344",
-        "LOAN_STATUS": false,
-        "DTE": 20,
-        "BORROWER_NAME": "Burgess Bowman",
-        "LOAN_AMOUNT": "$1,369.81",
-        "lOAN_OFFICER": "Betsy Hughes",
-        "lOAN_PRODUCT": "brown",
-        "PROERTY_ADDRESS": "LUNCHPOD"
-    },
-    {
-        "LOAN_NUMBER": "62beed58f161ad12337f5f49",
-        "LOAN_STATUS": true,
-        "DTE": 20,
-        "BORROWER_NAME": "Morin Alston",
-        "LOAN_AMOUNT": "$1,776.17",
-        "lOAN_OFFICER": "Ingrid Lowery",
-        "lOAN_PRODUCT": "green",
-        "PROERTY_ADDRESS": "CALLFLEX"
-    },
-    {
-        "LOAN_NUMBER": "62beed58cdfa0594ab7ad6f4",
-        "LOAN_STATUS": false,
-        "DTE": 30,
-        "BORROWER_NAME": "Roberson Mann",
-        "LOAN_AMOUNT": "$1,227.39",
-        "lOAN_OFFICER": "Carson Martinez",
-        "lOAN_PRODUCT": "brown",
-        "PROERTY_ADDRESS": "COMVEX"
-    }
-]
+{
+
+"transactionId":"325435345",
+ "sotaOrderId":"dfgdfgfdg",
+  "sapDocument":"sdfsdf",
+    "message":"sdadfsf",
+    "status":"success"
+}
